@@ -77,6 +77,7 @@ A modern, production-level Personal Finance Dashboard built with **React (Vite)*
 ```
 finance-dashboard/
 ├── public/                    # Static assets
+├── screenshots/               # UI screenshots and demos
 ├── src/
 │   ├── components/            # React components
 │   │   ├── Navbar.jsx          # Navigation bar with theme toggle
@@ -102,13 +103,6 @@ finance-dashboard/
 ├── package.json               # Dependencies and scripts
 └── README.md                  # This file
 ```
-
-> Removed files for cleaner production artifact:
-> - DEPLOYMENT.md
-> - IMPLEMENTATION.md
-> - QUICK_REFERENCE.md
-> - dist/ (build output)
-> - package-lock.json (regenerate with npm install)
 
 ## 🚀 Getting Started
 
