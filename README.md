@@ -343,12 +343,3 @@ To reset data, clear browser localStorage.
 - [Recharts Examples](https://recharts.org)
 - [Lucide React Icons](https://lucide.dev)
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-**Built with ❤️ as a production-ready Finance Dashboard**
-
-For questions or suggestions, feel free to contribute or open an issue!
